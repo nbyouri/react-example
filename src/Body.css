@@ -1,0 +1,9 @@
+.bodyDiv {
+    background-color: black;
+    color: white;
+}
+
+.bodyDiv button {
+    background-color: aqua;
+    color: black;
+}
